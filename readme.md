@@ -6,3 +6,4 @@ eimai o david, eimai 12 etwn kai eimai sto GitHub gia na sas deijw projects kai 
 
 ## public ide pou xrhsimopoiw (gia twra)
 xrisimopoiw to [Thonny](https://thonny.org), ena IDE me ta vasika tou [Python](https://python.org).
+- tote xrisimopoiousa kai [Replit](https://replit.com) alla dn m aresei allo logw tou UI pou exei kai me auta ta polla ai pou exoun
