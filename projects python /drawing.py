@@ -1,25 +1,22 @@
-# Xrhsimopoihste Thonny h ena allo ide pou na ipostirizei Turtle
-
 import turtle
 
 t = turtle.Turtle()
-t.speed(10)
-t.pensize(2)
-t.pencolor("red")
+t.speed(0) 
+turtle.bgcolor("white")
+t.color("red")
+t.penup()
+t.goto(0, -200)
+t.pendown()
 
 t.begin_fill()
-t.fillcolor("red")
 t.left(140)
-t.forward(100)
-for i in range(200):
-    t.right(1)
-    t.forward(1)
+t.forward(224)  
+t.circle(-112, 200)  
 t.left(120)
-for i in range(200):
-    t.right(1)
-    t.forward(1)
-t.forward(100)
+t.circle(-112, 200)  
+t.forward(224)  
 t.end_fill()
 
 t.hideturtle()
 turtle.done()
+
